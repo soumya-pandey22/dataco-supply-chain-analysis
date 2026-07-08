@@ -8,6 +8,10 @@ Analysis of **DataCo Global's** supply chain dataset (180,000+ orders) to uncove
 **DataCo Smart Supply Chain for Big Data Analysis** (Kaggle)
 🔗 Source: https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis
 
+📎 **Note:** The zipped dataset (`DataCoSupplyChainDataset.zip`) is included in this repository — unzip it to access the full CSV file.
+
+---
+
 ## 🛠️ Tools Used
 Python · Pandas · NumPy · Matplotlib · Seaborn
 
